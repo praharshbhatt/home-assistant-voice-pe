@@ -1550,7 +1550,9 @@ micro_wake_word:
   models:
     - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       id: okay_nabu
-    - model: hey_jarvis
+    # - model: hey_jarvis
+    # updating the link to `hey_jarvis` to a model that is better trained
+    - model: https://github.com/kahrendt/microWakeWord/releases/download/v2.1_models/hey_jarvis.json
       id: hey_jarvis
     - model: hey_mycroft
       id: hey_mycroft
