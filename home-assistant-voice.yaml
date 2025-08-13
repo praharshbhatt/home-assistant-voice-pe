@@ -1582,7 +1582,7 @@ micro_wake_word:
       id: okay_nabu
     # - model: hey_jarvis
     # updating the link to `hey_jarvis` a model trained on my voice
-    - model: https://github.com/praharshbhatt/micro-wake-word-models/releases/download/v2/hey_jarvis.json
+    - model: https://github.com/praharshbhatt/micro-wake-word-models/releases/download/v1/hey_jarvis.json
       id: hey_jarvis
     - model: hey_mycroft
       id: hey_mycroft
